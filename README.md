@@ -1,4 +1,4 @@
-## A survey on Large Language Model interpretability methods
+## A Survey on Large Language Model Interpretability Methods
 This seminar explores methods for interpreting LLM’s hidden states. Since all transformer
 blocks in LLMs are the same in terms of architecture (they have different parameters), the
 question is what features are detected in each layer. One way to approach this problem is to
